@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PRIMERA PAGINA WEB BOLIVIA</title>
+		<meta charset="utf-8">
+		<!<body style="background-color:#C0C0C0;">
+		<!<body style="background-color:blue;"></body>
+		<body bgcolor="red" text="blue">
+</head>
+<body>
+<H2>OBETH FLORES CHOQUE</H2>
+<H2>FECHA: 13/05/2024</H2>
+	<center>
+		<H1>HISTORIA DE INTELIGENCIA ARTIFICIAL</H1>
+	</center>
+
+	<H1>HISTORIA</H1>
+	<p>Las raíces de la IA se remontan a la década de 1950, cuando los expertos en informática comenzaron a imaginar la posibilidad de crear máquinas que pudieran simular la inteligencia humana. En 1956, la Conferencia de Dartmouth marcó el nacimiento de la IA como campo de estudio.</p>
+
+	<a href="https://google.com" target="_blank">clic aqui</a>
+	<hr>
+	
+
+	<h1>IMAGEN IA</h1>
+	<img src="ia.jpg" width="500px" height="500px">
+	<hr>
+
+	<h1>GIF IA</h1>
+	<img src="ia.gif" width="500px" height="500px">
+	<hr>
+	<h1>FORMULARIO</h1>
+		<form>
+			<label>Nombre</label>
+			<input type="text">
+			<label>Apellido</label>
+			<input type="text">
+			<label>Email</label>
+			<input type="email">
+			<input type="submit"value="Enviar">
+
+		</form>
+<h1>Mi video de YouTube</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_tA5cinv0U8?si=aAa-G9ezU_Fvj-WB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+<h1>AUDIO</h1>
+<audio controls>
+	<source src="a.mpeg" type="audio/mpeg">
+</audio>
+		
+</body>
+</html>
